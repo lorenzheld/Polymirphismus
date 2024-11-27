@@ -10,7 +10,7 @@ public class Main {
         Vogel meinHuhn = new Huhn();
         meinHuhn.fliegen(); // Ausgabe: "Ein Huhn kann nur ein bisschen flattern."
 
-        // Testen der Methoden der Subklassen
+
 
         Ente echteEnte = new Ente();
         echteEnte.schwimmen(); // Ausgabe: "Eine Ente schwimmt."
