@@ -10,8 +10,6 @@ public class Main {
         Vogel meinHuhn = new Huhn();
         meinHuhn.fliegen(); // Ausgabe: "Ein Huhn kann nur ein bisschen flattern."
 
-
-
         Ente echteEnte = new Ente();
         echteEnte.schwimmen(); // Ausgabe: "Eine Ente schwimmt."
 
